@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.shields.io/badge/-redux--toolkit-%23764ABC?style=for-the-badge&logo=redux&react&logoColor=#764ABC"/>
+<img src="https://img.shields.io/badge/-React%20-%2361DAFB?style=for-the-badge&logo=react"/>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Grapefruitgreentealoe&fontSize=90)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grapefruitgreentealoe&show_icons=true&theme=radical)

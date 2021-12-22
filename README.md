@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/-redux--toolkit-%23764ABC?style=for-the-badge&logo=redux&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/-react%20-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/-axios-%23764ABC?style=for-the-badge&logo=axios&logoColor=%23764ABC"/>
-<img src="https://img.shields.io/badge/-styled--components-%23DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Grapefruitgreentealoe&fontSize=90)
 
